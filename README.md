@@ -1,4 +1,4 @@
-# react-native-paypur
+# react-native-paypur [ Under Development ]
 
 [![npm version](https://img.shields.io/npm/v/react-native-paypur.svg)](https://www.npmjs.com/package/react-native-paypur)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
