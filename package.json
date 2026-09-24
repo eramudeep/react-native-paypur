@@ -58,7 +58,8 @@
   },
   "homepage": "https://github.com/eramudeep/react-native-paypur#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^21.2.0",
